@@ -1,0 +1,15 @@
+target
+.idea
+run/*txt
+run
+*txt
+lib
+local-repository
+.idea
+.idea/scala_compiler.xml
+data/output
+.classpath
+.project
+.settings
+.worksheet
+scalaSparkTemplate.iml
